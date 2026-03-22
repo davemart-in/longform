@@ -1,0 +1,178 @@
+[
+  {
+    "id": "site-01",
+    "name": "The Pragmatic Engineer",
+    "url": "pragmaticengineer.com",
+    "description": "Big Tech and startup engineering culture, from the inside.",
+    "avatar": "https://images.unsplash.com/photo-1535223289827-42f1e9919769?w=80&h=80&fit=crop",
+    "subscribers": 524000,
+    "isFollowing": true,
+    "unreadCount": 3,
+    "category": "Technology"
+  },
+  {
+    "id": "site-02",
+    "name": "Smitten Kitchen",
+    "url": "smittenkitchen.com",
+    "description": "Fearless cooking from a tiny New York City kitchen.",
+    "avatar": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=80&h=80&fit=crop",
+    "subscribers": 312000,
+    "isFollowing": true,
+    "unreadCount": 1,
+    "category": "Food"
+  },
+  {
+    "id": "site-03",
+    "name": "Brain Pickings",
+    "url": "themarginalian.org",
+    "description": "An inventory of the meaningful life, curated by Maria Popova.",
+    "avatar": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=80&h=80&fit=crop",
+    "subscribers": 890000,
+    "isFollowing": true,
+    "unreadCount": 0,
+    "category": "Culture"
+  },
+  {
+    "id": "site-04",
+    "name": "Stratechery",
+    "url": "stratechery.com",
+    "description": "Analysis of the strategy and business side of technology.",
+    "avatar": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=80&h=80&fit=crop",
+    "subscribers": 178000,
+    "isFollowing": true,
+    "unreadCount": 2,
+    "category": "Technology"
+  },
+  {
+    "id": "site-05",
+    "name": "Austin Kleon",
+    "url": "austinkleon.com",
+    "description": "A writer who draws. Author of Steal Like an Artist.",
+    "avatar": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=80&h=80&fit=crop",
+    "subscribers": 145000,
+    "isFollowing": true,
+    "unreadCount": 0,
+    "category": "Creativity"
+  },
+  {
+    "id": "site-06",
+    "name": "Outdoor Photographer",
+    "url": "outdoorphotographer.com",
+    "description": "Landscapes, wildlife, and the craft of nature photography.",
+    "avatar": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?w=80&h=80&fit=crop",
+    "subscribers": 67000,
+    "isFollowing": true,
+    "unreadCount": 1,
+    "category": "Photography"
+  },
+  {
+    "id": "site-07",
+    "name": "Treehouse Traveler",
+    "url": "treehousetraveler.com",
+    "description": "Slow travel stories from a permanent nomad with a cat.",
+    "avatar": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=80&h=80&fit=crop",
+    "subscribers": 23000,
+    "isFollowing": false,
+    "unreadCount": 0,
+    "category": "Travel"
+  },
+  {
+    "id": "site-08",
+    "name": "Dense Discovery",
+    "url": "densediscovery.com",
+    "description": "A weekly newsletter exploring design, sustainability, and culture.",
+    "avatar": "https://images.unsplash.com/photo-1558591710-4b4a1ae0f04d?w=80&h=80&fit=crop",
+    "subscribers": 41000,
+    "isFollowing": true,
+    "unreadCount": 0,
+    "category": "Design"
+  },
+  {
+    "id": "site-09",
+    "name": "Letters from an American",
+    "url": "heathercoxrichardson.substack.com",
+    "description": "Daily historical context for current events by Heather Cox Richardson.",
+    "avatar": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=80&h=80&fit=crop",
+    "subscribers": 1240000,
+    "isFollowing": false,
+    "unreadCount": 0,
+    "category": "History"
+  },
+  {
+    "id": "site-10",
+    "name": "Zen Habits",
+    "url": "zenhabits.net",
+    "description": "Simple daily habits that can change your life, by Leo Babauta.",
+    "avatar": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=80&h=80&fit=crop",
+    "subscribers": 256000,
+    "isFollowing": true,
+    "unreadCount": 0,
+    "category": "Wellness"
+  },
+  {
+    "id": "site-11",
+    "name": "iA",
+    "url": "ia.net",
+    "description": "Digital product studio. Writing about design, technology, and writing itself.",
+    "avatar": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=80&h=80&fit=crop",
+    "subscribers": 89000,
+    "isFollowing": true,
+    "unreadCount": 1,
+    "category": "Design"
+  },
+  {
+    "id": "site-12",
+    "name": "Kottke.org",
+    "url": "kottke.org",
+    "description": "Home of fine hypertext products since 1998.",
+    "avatar": "https://images.unsplash.com/photo-1432821596592-e2c18b78144f?w=80&h=80&fit=crop",
+    "subscribers": 410000,
+    "isFollowing": true,
+    "unreadCount": 4,
+    "category": "Culture"
+  },
+  {
+    "id": "site-13",
+    "name": "Daring Fireball",
+    "url": "daringfireball.net",
+    "description": "John Gruber's commentary on Apple, technology, and the web.",
+    "avatar": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=80&h=80&fit=crop",
+    "subscribers": 335000,
+    "isFollowing": false,
+    "unreadCount": 0,
+    "category": "Technology"
+  },
+  {
+    "id": "site-14",
+    "name": "The Sartorialist",
+    "url": "thesartorialist.com",
+    "description": "Street style and fashion photography from around the world.",
+    "avatar": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=80&h=80&fit=crop",
+    "subscribers": 198000,
+    "isFollowing": false,
+    "unreadCount": 0,
+    "category": "Fashion"
+  },
+  {
+    "id": "site-15",
+    "name": "Wait But Why",
+    "url": "waitbutwhy.com",
+    "description": "Long-form, stick-figure-illustrated explorations of science, society, and the future.",
+    "avatar": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=80&h=80&fit=crop",
+    "subscribers": 780000,
+    "isFollowing": true,
+    "unreadCount": 0,
+    "category": "Science"
+  },
+  {
+    "id": "site-16",
+    "name": "Cup of Jo",
+    "url": "cupofjo.com",
+    "description": "A daily lifestyle site for women, covering style, culture, food, and relationships.",
+    "avatar": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=80&h=80&fit=crop",
+    "subscribers": 520000,
+    "isFollowing": false,
+    "unreadCount": 0,
+    "category": "Lifestyle"
+  }
+]

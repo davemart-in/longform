@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Longform — Read</title>
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="css/reset.css">
+  <link rel="stylesheet" href="css/tokens.css">
+  <link rel="stylesheet" href="css/layout.css">
+  <link rel="stylesheet" href="css/components.css">
+  <link rel="stylesheet" href="css/views.css">
+</head>
+<body>
+
+  <!-- Sidebar -->
+  <nav class="sidebar">
+    <div class="sidebar-logo">
+      <span class="logo-text">longform.</span>
+    </div>
+
+    <ul class="nav-list">
+      <li class="nav-item active" data-route="home">
+        <svg class="icon" aria-hidden="true"><use href="assets/icons.svg#icon-home"/></svg>
+        Home
+      </li>
+      <li class="nav-item" data-route="discover">
+        <svg class="icon" aria-hidden="true"><use href="assets/icons.svg#icon-compass"/></svg>
+        Discover
+      </li>
+      <li class="nav-item" data-route="rooms">
+        <svg class="icon" aria-hidden="true"><use href="assets/icons.svg#icon-couch"/></svg>
+        Rooms
+      </li>
+      <li class="nav-item" data-route="saved">
+        <svg class="icon" aria-hidden="true"><use href="assets/icons.svg#icon-bookmark"/></svg>
+        Saved
+      </li>
+      <li class="nav-item" data-route="you">
+        <svg class="icon" aria-hidden="true"><use href="assets/icons.svg#icon-user"/></svg>
+        You
+      </li>
+    </ul>
+
+    <button class="theme-toggle" data-action="theme-toggle">
+      <svg id="theme-icon" class="icon" aria-hidden="true"><use href="assets/icons.svg#icon-moon"/></svg>
+      <span id="theme-label">Dark mode</span>
+    </button>
+  </nav>
+
+  <!-- Main -->
+  <main class="main">
+    <header class="topbar">
+      <h1 class="topbar-title" id="topbar-title">Home</h1>
+      <div class="topbar-actions">
+        <button aria-label="Search" data-action="search-open">
+          <svg class="icon" aria-hidden="true"><use href="assets/icons.svg#icon-search"/></svg>
+        </button>
+      </div>
+    </header>
+
+    <div class="search-overlay" id="search-overlay">
+      <div class="search-overlay-inner">
+        <div class="search-overlay-bar">
+          <svg class="icon" aria-hidden="true"><use href="assets/icons.svg#icon-search"/></svg>
+          <input type="text" id="search-input" placeholder="Search articles, sites, tags..." autocomplete="off">
+          <button class="search-overlay-close" data-action="search-close">
+            <svg class="icon" aria-hidden="true"><use href="assets/icons.svg#icon-x"/></svg>
+          </button>
+        </div>
+        <div class="search-overlay-hint">Try &ldquo;design systems&rdquo;, &ldquo;javascript&rdquo;, or a site name</div>
+      </div>
+    </div>
+
+    <div class="content-area">
+      <div id="main-content"></div>
+    </div>
+  </main>
+
+  <!-- Right Sidebar (contextual, rendered by app.js) -->
+  <aside class="right-sidebar" id="right-sidebar"></aside>
+
+  <!-- Mobile Tab Bar -->
+  <nav class="mobile-tabbar">
+    <div class="mobile-tabbar-inner">
+      <div class="tab-item active" data-route="home">
+        <svg class="icon" aria-hidden="true"><use href="assets/icons.svg#icon-home"/></svg>
+        Home
+      </div>
+      <div class="tab-item" data-route="discover">
+        <svg class="icon" aria-hidden="true"><use href="assets/icons.svg#icon-compass"/></svg>
+        Discover
+      </div>
+      <div class="tab-item" data-route="rooms">
+        <svg class="icon" aria-hidden="true"><use href="assets/icons.svg#icon-couch"/></svg>
+        Rooms
+      </div>
+      <div class="tab-item" data-route="saved">
+        <svg class="icon" aria-hidden="true"><use href="assets/icons.svg#icon-bookmark"/></svg>
+        Saved
+      </div>
+      <div class="tab-item" data-route="you">
+        <svg class="icon" aria-hidden="true"><use href="assets/icons.svg#icon-user"/></svg>
+        You
+      </div>
+    </div>
+  </nav>
+
+  <!-- App Script -->
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

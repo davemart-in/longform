@@ -1,0 +1,223 @@
+[
+  {
+    "id": "room-01",
+    "name": "Design Systems Guild",
+    "description": "Exploring the craft of design systems — tokens, components, documentation, and the humans who build them.",
+    "type": "public",
+    "icon": "grid",
+    "coverImage": "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=800&h=400&fit=crop",
+    "memberCount": 342,
+    "members": [
+      { "id": "member-01", "name": "Sarah Chen", "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=80&h=80&fit=crop", "role": "host" },
+      { "id": "member-02", "name": "Marcus Rivera", "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=80&h=80&fit=crop", "role": "co-host" },
+      { "id": "member-03", "name": "Aiko Tanaka", "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=80&h=80&fit=crop", "role": "member" },
+      { "id": "member-04", "name": "James Okonkwo", "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=80&h=80&fit=crop", "role": "member" },
+      { "id": "member-05", "name": "Elena Volkov", "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=80&h=80&fit=crop", "role": "member" }
+    ],
+    "tags": ["design", "systems", "UI", "components"],
+    "sharedArticles": [
+      { "postId": "post-03", "sharedBy": "member-01", "sharedAt": "2026-02-17T14:30:00Z", "note": "This approach to token naming is exactly what we discussed last week." },
+      { "postId": "post-07", "sharedBy": "member-02", "sharedAt": "2026-02-16T09:15:00Z", "note": "" },
+      { "postId": "post-12", "sharedBy": "member-03", "sharedAt": "2026-02-15T18:00:00Z", "note": "Great case study on component documentation." }
+    ],
+    "discussions": [
+      { "id": "disc-01", "title": "How do you handle dark mode tokens?", "author": "member-01", "date": "2026-02-17T10:00:00Z", "replyCount": 23, "lastReply": "2026-02-18T08:30:00Z", "preview": "We're debating whether to use semantic tokens exclusively or allow direct color references in components..." },
+      { "id": "disc-02", "title": "Figma vs code — which is the source of truth?", "author": "member-04", "date": "2026-02-14T16:00:00Z", "replyCount": 45, "lastReply": "2026-02-17T22:00:00Z", "preview": "Our team keeps running into sync issues between design and engineering. How do others handle this?" }
+    ],
+    "dailyPrompt": "What's one design system decision you'd go back and change?",
+    "isJoined": true,
+    "unread": 3,
+    "lastActivity": "2026-02-18T08:30:00Z",
+    "createdAt": "2025-06-15T00:00:00Z"
+  },
+  {
+    "id": "room-02",
+    "name": "Slow Readers Club",
+    "description": "For people who savor their reading — one article at a time, no rush. Quality over quantity, depth over breadth.",
+    "type": "public",
+    "icon": "book-open",
+    "coverImage": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=800&h=400&fit=crop",
+    "memberCount": 1204,
+    "members": [
+      { "id": "member-06", "name": "Thomas Andersen", "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=80&h=80&fit=crop", "role": "host" },
+      { "id": "member-07", "name": "Priya Sharma", "avatar": "https://images.unsplash.com/photo-1489424731084-a5d8b219a5bb?w=80&h=80&fit=crop", "role": "co-host" },
+      { "id": "member-08", "name": "Liam O'Brien", "avatar": "https://images.unsplash.com/photo-1463453091185-61582044d556?w=80&h=80&fit=crop", "role": "member" },
+      { "id": "member-09", "name": "Yuki Sato", "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=80&h=80&fit=crop", "role": "member" }
+    ],
+    "tags": ["reading", "longform", "essays", "literature"],
+    "sharedArticles": [
+      { "postId": "post-01", "sharedBy": "member-06", "sharedAt": "2026-02-18T06:00:00Z", "note": "This week's pick. Take your time with it — the ending is worth the journey." },
+      { "postId": "post-10", "sharedBy": "member-07", "sharedAt": "2026-02-16T20:00:00Z", "note": "" }
+    ],
+    "discussions": [
+      { "id": "disc-03", "title": "February reading reflections", "author": "member-06", "date": "2026-02-15T08:00:00Z", "replyCount": 67, "lastReply": "2026-02-18T07:45:00Z", "preview": "What stuck with you from this month's reads? Share your highlights and takeaways." },
+      { "id": "disc-04", "title": "Recommendations for long winter reads", "author": "member-09", "date": "2026-02-12T14:00:00Z", "replyCount": 34, "lastReply": "2026-02-17T19:00:00Z", "preview": "Looking for essays or long-form pieces perfect for a snowy weekend. Fiction or non-fiction welcome." }
+    ],
+    "dailyPrompt": "What article changed how you think about something?",
+    "isJoined": true,
+    "unread": 1,
+    "lastActivity": "2026-02-18T07:45:00Z",
+    "createdAt": "2025-03-01T00:00:00Z"
+  },
+  {
+    "id": "room-03",
+    "name": "Indie Web Builders",
+    "description": "Building for the open web — personal sites, blogs, IndieWeb protocols, and the joy of owning your corner of the internet.",
+    "type": "public",
+    "icon": "globe",
+    "coverImage": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800&h=400&fit=crop",
+    "memberCount": 567,
+    "members": [
+      { "id": "member-10", "name": "Robin Kwok", "avatar": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=80&h=80&fit=crop", "role": "host" },
+      { "id": "member-11", "name": "Ava Johansson", "avatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=80&h=80&fit=crop", "role": "member" },
+      { "id": "member-12", "name": "Dev Patel", "avatar": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?w=80&h=80&fit=crop", "role": "member" }
+    ],
+    "tags": ["indieweb", "webdev", "blogging", "open-source"],
+    "sharedArticles": [
+      { "postId": "post-05", "sharedBy": "member-10", "sharedAt": "2026-02-17T11:00:00Z", "note": "This captures the spirit of why we build personal sites." },
+      { "postId": "post-14", "sharedBy": "member-11", "sharedAt": "2026-02-15T15:30:00Z", "note": "" }
+    ],
+    "discussions": [
+      { "id": "disc-05", "title": "Webmentions in 2026 — still worth implementing?", "author": "member-10", "date": "2026-02-16T12:00:00Z", "replyCount": 19, "lastReply": "2026-02-18T02:00:00Z", "preview": "I've been going back and forth on whether Webmentions add enough value for the implementation effort..." }
+    ],
+    "dailyPrompt": null,
+    "isJoined": true,
+    "unread": 0,
+    "lastActivity": "2026-02-18T02:00:00Z",
+    "createdAt": "2025-09-10T00:00:00Z"
+  },
+  {
+    "id": "room-04",
+    "name": "Kitchen Experiments",
+    "description": "Home cooks sharing recipes, failures, discoveries, and the stories behind every meal. No gatekeeping, all skill levels.",
+    "type": "public",
+    "icon": "star",
+    "coverImage": "https://images.unsplash.com/photo-1556910103-1c02745aae4d?w=800&h=400&fit=crop",
+    "memberCount": 891,
+    "members": [
+      { "id": "member-13", "name": "Isabella Rossi", "avatar": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?w=80&h=80&fit=crop", "role": "host" },
+      { "id": "member-14", "name": "Kai Nakamura", "avatar": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?w=80&h=80&fit=crop", "role": "co-host" },
+      { "id": "member-15", "name": "Nadia Hassan", "avatar": "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?w=80&h=80&fit=crop", "role": "member" }
+    ],
+    "tags": ["cooking", "recipes", "food", "culture"],
+    "sharedArticles": [
+      { "postId": "post-08", "sharedBy": "member-13", "sharedAt": "2026-02-17T19:00:00Z", "note": "The fermentation section is gold." },
+      { "postId": "post-15", "sharedBy": "member-14", "sharedAt": "2026-02-16T12:00:00Z", "note": "" }
+    ],
+    "discussions": [
+      { "id": "disc-06", "title": "What's your go-to weeknight meal?", "author": "member-13", "date": "2026-02-17T18:00:00Z", "replyCount": 89, "lastReply": "2026-02-18T09:00:00Z", "preview": "I always come back to a simple aglio e olio — 15 minutes, five ingredients, deeply satisfying." }
+    ],
+    "dailyPrompt": "Describe a meal from your childhood in three sentences.",
+    "isJoined": false,
+    "unread": 0,
+    "lastActivity": "2026-02-18T09:00:00Z",
+    "createdAt": "2025-04-20T00:00:00Z"
+  },
+  {
+    "id": "room-05",
+    "name": "Tech Ethics Reading Group",
+    "description": "Critical perspectives on technology, AI, privacy, and power. We read, we discuss, we hold the industry accountable.",
+    "type": "public",
+    "icon": "book-open",
+    "coverImage": "https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?w=800&h=400&fit=crop",
+    "memberCount": 423,
+    "members": [
+      { "id": "member-16", "name": "Jordan Blake", "avatar": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=80&h=80&fit=crop", "role": "host" },
+      { "id": "member-17", "name": "Amara Diallo", "avatar": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=80&h=80&fit=crop", "role": "co-host" },
+      { "id": "member-18", "name": "Wei Zhang", "avatar": "https://images.unsplash.com/photo-1507591064344-4c6ce005b128?w=80&h=80&fit=crop", "role": "member" }
+    ],
+    "tags": ["ethics", "AI", "privacy", "technology"],
+    "sharedArticles": [
+      { "postId": "post-09", "sharedBy": "member-16", "sharedAt": "2026-02-17T08:00:00Z", "note": "Required reading before our next discussion." },
+      { "postId": "post-16", "sharedBy": "member-17", "sharedAt": "2026-02-15T10:00:00Z", "note": "Challenging but important perspective on algorithmic bias." }
+    ],
+    "discussions": [
+      { "id": "disc-07", "title": "Should AI-generated content be labeled?", "author": "member-16", "date": "2026-02-16T09:00:00Z", "replyCount": 56, "lastReply": "2026-02-18T06:00:00Z", "preview": "The EU says yes, but enforcement is nearly impossible. Where should the line be?" }
+    ],
+    "dailyPrompt": null,
+    "isJoined": false,
+    "unread": 0,
+    "lastActivity": "2026-02-18T06:00:00Z",
+    "createdAt": "2025-07-01T00:00:00Z"
+  },
+  {
+    "id": "room-06",
+    "name": "The Writing Workshop",
+    "description": "A private space for writers to share drafts, give feedback, and support each other's craft. Invitations from current members only.",
+    "type": "private",
+    "icon": "edit",
+    "coverImage": "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=800&h=400&fit=crop",
+    "memberCount": 48,
+    "members": [
+      { "id": "member-19", "name": "Olivia Park", "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=80&h=80&fit=crop", "role": "host" },
+      { "id": "member-20", "name": "Dante Moretti", "avatar": "https://images.unsplash.com/photo-1519345182560-3f2917c472ef?w=80&h=80&fit=crop", "role": "co-host" },
+      { "id": "member-21", "name": "Hannah Lee", "avatar": "https://images.unsplash.com/photo-1502767089025-6572583495f9?w=80&h=80&fit=crop", "role": "member" }
+    ],
+    "tags": ["writing", "craft", "feedback", "creativity"],
+    "sharedArticles": [
+      { "postId": "post-02", "sharedBy": "member-19", "sharedAt": "2026-02-17T21:00:00Z", "note": "Beautiful structure in this piece. Notice how the ending mirrors the opening." }
+    ],
+    "discussions": [
+      { "id": "disc-08", "title": "Craft note: using white space as punctuation", "author": "member-19", "date": "2026-02-16T20:00:00Z", "replyCount": 12, "lastReply": "2026-02-17T23:00:00Z", "preview": "I've been experimenting with letting silence do the work in my latest essays. Here's what I've learned..." }
+    ],
+    "dailyPrompt": "Write a single paragraph that begins and ends with the same word.",
+    "isJoined": true,
+    "unread": 2,
+    "lastActivity": "2026-02-17T23:00:00Z",
+    "createdAt": "2025-11-01T00:00:00Z"
+  },
+  {
+    "id": "room-07",
+    "name": "Founders & Builders",
+    "description": "Honest conversations about building companies, products, and teams. No hustle culture — just the real, messy work.",
+    "type": "private",
+    "icon": "trending-up",
+    "coverImage": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&h=400&fit=crop",
+    "memberCount": 127,
+    "members": [
+      { "id": "member-22", "name": "Alex Petrov", "avatar": "https://images.unsplash.com/photo-1557862921-37829c790f19?w=80&h=80&fit=crop", "role": "host" },
+      { "id": "member-23", "name": "Zara Khan", "avatar": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?w=80&h=80&fit=crop", "role": "co-host" },
+      { "id": "member-24", "name": "Ryan Torres", "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=80&h=80&fit=crop", "role": "member" }
+    ],
+    "tags": ["startups", "product", "leadership", "building"],
+    "sharedArticles": [
+      { "postId": "post-04", "sharedBy": "member-22", "sharedAt": "2026-02-16T15:00:00Z", "note": "This mirrors my experience scaling from 10 to 50 people." },
+      { "postId": "post-11", "sharedBy": "member-23", "sharedAt": "2026-02-14T11:00:00Z", "note": "" }
+    ],
+    "discussions": [
+      { "id": "disc-09", "title": "When to stop building and start selling", "author": "member-22", "date": "2026-02-15T13:00:00Z", "replyCount": 31, "lastReply": "2026-02-17T16:00:00Z", "preview": "We shipped v1 three months ago and keep adding features. At some point you have to flip the switch..." }
+    ],
+    "dailyPrompt": null,
+    "isJoined": false,
+    "unread": 0,
+    "lastActivity": "2026-02-17T16:00:00Z",
+    "createdAt": "2025-08-15T00:00:00Z"
+  },
+  {
+    "id": "room-08",
+    "name": "Photo Walk",
+    "description": "Street photography, landscapes, portraits — share your shots, get gentle critique, and find inspiration in everyday moments.",
+    "type": "public",
+    "icon": "image",
+    "coverImage": "https://images.unsplash.com/photo-1452587925148-ce544e77e70d?w=800&h=400&fit=crop",
+    "memberCount": 678,
+    "members": [
+      { "id": "member-25", "name": "Nina Bergström", "avatar": "https://images.unsplash.com/photo-1499952127939-9bbf5af6c51c?w=80&h=80&fit=crop", "role": "host" },
+      { "id": "member-26", "name": "Carlos Mendez", "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=80&h=80&fit=crop", "role": "member" },
+      { "id": "member-27", "name": "Fiona O'Neill", "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=80&h=80&fit=crop", "role": "member" }
+    ],
+    "tags": ["photography", "street", "visual", "creative"],
+    "sharedArticles": [
+      { "postId": "post-06", "sharedBy": "member-25", "sharedAt": "2026-02-17T16:00:00Z", "note": "The light in these shots is incredible." },
+      { "postId": "post-18", "sharedBy": "member-26", "sharedAt": "2026-02-15T09:00:00Z", "note": "" }
+    ],
+    "discussions": [
+      { "id": "disc-10", "title": "Phone cameras vs dedicated cameras in 2026", "author": "member-25", "date": "2026-02-14T11:00:00Z", "replyCount": 42, "lastReply": "2026-02-17T20:00:00Z", "preview": "The latest phones are genuinely impressive, but there's still something about shooting with a dedicated body..." }
+    ],
+    "dailyPrompt": "Share a photo you took today — no editing, no filters.",
+    "isJoined": false,
+    "unread": 0,
+    "lastActivity": "2026-02-17T20:00:00Z",
+    "createdAt": "2025-05-01T00:00:00Z"
+  }
+]

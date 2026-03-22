@@ -1,0 +1,178 @@
+{
+  "heroCarousel": [
+    {
+      "postId": "post-15",
+      "label": "Editors' Pick",
+      "tagline": "A new theory on the greatest mystery in science",
+      "category": "SCIENCE"
+    },
+    {
+      "postId": "post-03",
+      "label": "Deep Read",
+      "tagline": "Arendt's prescient warning about loneliness and democracy",
+      "category": "PHILOSOPHY"
+    },
+    {
+      "postId": "post-08",
+      "label": "Design Thinking",
+      "tagline": "Why the best design is the design you never notice",
+      "category": "DESIGN"
+    },
+    {
+      "postId": "post-02",
+      "label": "Most Saved",
+      "tagline": "The recipe that broke the internet this week",
+      "category": "FOOD & CULTURE"
+    },
+    {
+      "postId": "post-01",
+      "label": "Trending",
+      "tagline": "What your salary really says about the market",
+      "category": "TECHNOLOGY"
+    }
+  ],
+  "freshlyPressed": [
+    "post-21",
+    "post-12",
+    "post-07",
+    "post-06"
+  ],
+  "trending": [
+    { "postId": "post-16", "likes": 1842, "comments": 312 },
+    { "postId": "post-05", "likes": 1356, "comments": 203 },
+    { "postId": "post-20", "likes": 1120, "comments": 178 },
+    { "postId": "post-09", "likes": 987, "comments": 145 },
+    { "postId": "post-01", "likes": 876, "comments": 89 }
+  ],
+  "becauseYouFollow": {
+    "sourceSiteId": "site-01",
+    "recommendedSites": [
+      {
+        "id": "rec-site-01",
+        "name": "ByteByteGo",
+        "avatar": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=80&h=80&fit=crop",
+        "description": "System design deep-dives with clear visual explanations.",
+        "subscribers": 287000
+      },
+      {
+        "id": "rec-site-02",
+        "name": "Engineering at Meta",
+        "avatar": "https://images.unsplash.com/photo-1633356122102-3fe601e05bd2?w=80&h=80&fit=crop",
+        "description": "Behind the scenes of building products used by billions.",
+        "subscribers": 412000
+      },
+      {
+        "id": "rec-site-03",
+        "name": "Staff Eng",
+        "avatar": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=80&h=80&fit=crop",
+        "description": "Stories and guides for reaching Staff+ engineering roles.",
+        "subscribers": 156000
+      },
+      {
+        "id": "rec-site-04",
+        "name": "High Growth Engineer",
+        "avatar": "https://images.unsplash.com/photo-1551434678-e076c223a692?w=80&h=80&fit=crop",
+        "description": "Career tactics for ambitious software engineers.",
+        "subscribers": 98000
+      }
+    ]
+  },
+  "notableWriters": [
+    {
+      "id": "nw-01",
+      "name": "Bill Gates",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bill_Gates_at_the_European_Commission_-_2025_-_P067383-987995_%28cropped%29.jpg/256px-Bill_Gates_at_the_European_Commission_-_2025_-_P067383-987995_%28cropped%29.jpg",
+      "topic": "Technology & philanthropy",
+      "followers": 2400000
+    },
+    {
+      "id": "nw-02",
+      "name": "Michelle Obama",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Michelle_Obama_2013_official_portrait.jpg/256px-Michelle_Obama_2013_official_portrait.jpg",
+      "topic": "Memoir & public service",
+      "followers": 3100000
+    },
+    {
+      "id": "nw-03",
+      "name": "Seth Godin",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Seth_Godin_in_2009.jpg/256px-Seth_Godin_in_2009.jpg",
+      "topic": "Marketing & creative work",
+      "followers": 890000
+    },
+    {
+      "id": "nw-04",
+      "name": "Malcolm Gladwell",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Malcolm_Gladwell%2C_author%2C_at_SXSW_2025_02_%28cropped%29.jpg/256px-Malcolm_Gladwell%2C_author%2C_at_SXSW_2025_02_%28cropped%29.jpg",
+      "topic": "Psychology & storytelling",
+      "followers": 1200000
+    },
+    {
+      "id": "nw-05",
+      "name": "Roxane Gay",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Roxane_Gay_Speaking_%283x4_cropped%29.JPG/256px-Roxane_Gay_Speaking_%283x4_cropped%29.JPG",
+      "topic": "Culture & feminism",
+      "followers": 670000
+    },
+    {
+      "id": "nw-06",
+      "name": "James Clear",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/James_Clear_in_2010.jpg/256px-James_Clear_in_2010.jpg",
+      "topic": "Habits & self-improvement",
+      "followers": 1500000
+    }
+  ],
+  "risingVoices": [
+    {
+      "id": "rv-site-01",
+      "name": "Treehouse Traveler",
+      "avatar": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=80&h=80&fit=crop",
+      "description": "Slow travel stories from a permanent nomad with a cat.",
+      "subscribers": 230
+    },
+    {
+      "id": "rv-site-02",
+      "name": "Fern & Frequency",
+      "avatar": "https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?w=80&h=80&fit=crop",
+      "description": "Sound design, botany, and the overlap nobody asked for.",
+      "subscribers": 147
+    },
+    {
+      "id": "rv-site-03",
+      "name": "Anya Petrova",
+      "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=80&h=80&fit=crop",
+      "description": "Short essays on memory, migration, and making bread in a new country.",
+      "subscribers": 312
+    }
+  ],
+  "youMightLikeSites": ["site-09", "site-13", "site-14", "site-16"],
+  "featuredAuthor": {
+    "name": "Maria Popova",
+    "siteId": "site-03",
+    "photo": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=200&h=200&fit=crop",
+    "bio": "Writer behind The Marginalian (formerly Brain Pickings). Exploring what it means to live a meaningful life through literature, science, and art for over 17 years.",
+    "followers": 890000,
+    "featuredPostId": "post-03"
+  },
+  "dailyPrompt": {
+    "prompt": "What's the most useful thing you learned this week?",
+    "date": "2026-02-16",
+    "responseCount": 342,
+    "featuredResponses": [
+      {
+        "authorName": "Elena Torres",
+        "authorAvatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=80&h=80&fit=crop",
+        "content": "That my sourdough starter is more resilient than I thought. Left it unfed for two weeks and it bounced back in 24 hours. A good metaphor for most things in life."
+      },
+      {
+        "authorName": "Marcus Chen",
+        "authorAvatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=80&h=80&fit=crop",
+        "content": "Learned about the concept of 'negative space' in conversation \u2014 the pauses where real understanding happens. Changed how I run 1:1s at work."
+      },
+      {
+        "authorName": "Anya Petrova",
+        "authorAvatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=80&h=80&fit=crop",
+        "content": "That the word 'nostalgia' was coined as a medical diagnosis \u2014 Swiss soldiers literally got sick from missing home. Language holds so much history."
+      }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C /Users/davem/Sites/a8c/longform log --oneline --all)",
+      "Bash(git -C /Users/davem/Sites/a8c/longform status)",
+      "Bash(git -C /Users/davem/Sites/a8c/longform show d7bad5e --stat)",
+      "Bash(chmod:*)",
+      "Bash(find . -name '*.json' -path './data/*' -exec sh -c 'echo \"\"=== $1 ===\"\" && python3 -c \"\"import json; json.load\\(open\\(\\\\\"\"$1\\\\\"\"\\)\\); print\\(\\\\\"\"Valid JSON\\\\\"\"\\)\"\"' _ {} ;)",
+      "Bash(for:*)",
+      "Bash(do python3 -c \"import json; json.load\\(open\\(''$f''\\)\\); print\\(''OK: $f''\\)\")",
+      "Bash(done)",
+      "Bash(for f in js/*.js js/views/*.js)",
+      "Bash(do node --check \"$f\")",
+      "Bash(echo:*)",
+      "Bash(python3:*)",
+      "WebFetch(domain:en.wikipedia.org)",
+      "WebFetch(domain:commons.wikimedia.org)",
+      "WebSearch",
+      "Bash(curl:*)",
+      "Bash(/Users/davem/Sites/a8c/longform/start.sh:*)",
+      "mcp__chrome-devtools__navigate_page",
+      "mcp__chrome-devtools__take_snapshot",
+      "mcp__chrome-devtools__click",
+      "mcp__chrome-devtools__take_screenshot"
+    ]
+  }
+}

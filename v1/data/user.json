@@ -1,0 +1,33 @@
+{
+  "id": "user-01",
+  "name": "Sam Rivera",
+  "username": "samrivera",
+  "email": "sam@example.com",
+  "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=80&h=80&fit=crop",
+  "bio": "Design engineer. Reader of too many newsletters. Occasional writer.",
+  "url": "samrivera.wordpress.com",
+  "joinedDate": "2019-03-15",
+  "preferences": {
+    "theme": "light",
+    "fontSize": "medium",
+    "density": "comfortable"
+  },
+  "stats": {
+    "articlesRead": 1247,
+    "readingStreak": 14,
+    "totalReadingTime": 31840,
+    "savedArticles": 89,
+    "highlightsCreated": 234,
+    "sitesFollowed": 12,
+    "topCategories": ["Technology", "Design", "Culture", "Food", "Science"]
+  },
+  "sites": [
+    {
+      "id": "user-site-01",
+      "name": "Sam's Design Notes",
+      "url": "samrivera.wordpress.com",
+      "posts": 47,
+      "subscribers": 320
+    }
+  ]
+}
